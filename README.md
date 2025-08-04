@@ -3,13 +3,13 @@ In this repository, a network (shown in the figure below) comprising three buses
 
 ![Network Diagram](https://github.com/sanaz-mahmoudi/sanazmahmoudi/blob/main/network_diagram.png)
 
-It is expected that a **Dunkelflaute** event is expected to occur during the second week of February 2025, resulting in a 40% increase in electricity consumption and a 60% reduction in maximum available renewable production compared to the original profiles. In this regard, this repository includes several Jupyter notebooks presenting:
+It is expected that a Dunkelflaute event is expected to occur during the second week of February 2025, resulting in a 40% increase in electricity consumption and a 60% reduction in maximum available renewable production compared to the original profiles. In this regard, this repository includes several Jupyter notebooks presenting:
 
 1. An optimisation example under normal conditions ([link](https://github.com/sanaz-mahmoudi/sanazmahmoudi/blob/main/OperationUnderNormalConditions.ipynb))
 2. An optimisation example under abnormal conditions ([link](https://github.com/sanaz-mahmoudi/sanazmahmoudi/blob/main/OperationUnderAbnormalConditions.ipynb))
 3. A resiliency assessment during a planned and unplanned 24-hour outage of the thermal power plant during the Dunkelflaute event ([link](https://github.com/sanaz-mahmoudi/sanazmahmoudi/blob/main/OperationUnderAbnormalConditionsDuringanOutage.ipynb))
 
-**Note:** For the sake of simplicity, the transport model is used instead of AC or DC power flow equations to ensure nodal power balance.
+**NOTE:** For the sake of simplicity, the transport model is used instead of AC or DC power flow equations to ensure nodal power balance.
 
 **NO NEED TO INSTALL ANYTHING!! JUST CLICK ON THE LINK AND RUN IT ON COLAB USING YOUR GOOGLE ACCOUNT.**
 
