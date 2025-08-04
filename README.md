@@ -9,6 +9,6 @@ It is expected that a Dunkelflaute event will occur during the second week of Fe
 
 Note: For the sake of simplicity, the transport model is used instead of AC or DC power flow equations to ensure nodal power balance.
 
-NO NEED TO INSTALL ANYTHING!! JUST CLICK ON THE LINK AND RUN IT ON COLAB USING YOUR GOOGLE ACCOUNT
+NO NEED TO INSTALL ANYTHING!! JUST CLICK ON THE LINK AND RUN IT ON COLAB USING YOUR GOOGLE ACCOUNT.
 
 
