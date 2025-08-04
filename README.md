@@ -7,7 +7,8 @@ It is expected that a Dunkelflaute event will occur during the second week of Fe
 2. Optimisation example under abnormal conditions ([link](https://github.com/sanaz-mahmoudi/sanazmahmoudi/blob/main/OperationUnderAbnormalConditions.ipynb))
 3. Resiliency assessment in a planned and unplanned 24-hour outage of the thermal power plant during the Dunkelflaute event ([link](https://github.com/sanaz-mahmoudi/sanazmahmoudi/blob/main/OperationUnderAbnormalConditionsDuringanOutage.ipynb))
 
+Note: For the sake of simplicity, the transport model is used instead of AC or DC power flow equations to ensure nodal power balance.
 
-NO NEED TO INSTALL ANYTHING!! JUST CLICK ON THE LINK AND RUN IT ON COLAB USING YOUR GOOGLE ACCOUNT!!
+NO NEED TO INSTALL ANYTHING!! JUST CLICK ON THE LINK AND RUN IT ON COLAB USING YOUR GOOGLE ACCOUNT
 
 
